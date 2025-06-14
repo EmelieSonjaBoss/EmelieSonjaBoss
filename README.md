@@ -15,5 +15,5 @@ I'm a frontend developer focused on building responsive web applications using J
 
 ### Links
 
-- Portfolio: (https://emelie-boss.vercel.app)  
-- LinkedIn: (https://www.linkedin.com/in/emelie-boss-31b36930b/)
+- Portfolio: https://emelie-boss.vercel.app
+- LinkedIn: https://www.linkedin.com/in/emelie-boss-31b36930b/
