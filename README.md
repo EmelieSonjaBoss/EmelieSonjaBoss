@@ -1,16 +1,19 @@
-## Hi there 👋
+# Emelie Boss
 
-<!--
-**EmelieSonjaBoss/EmelieSonjaBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer focused on building responsive web applications using JavaScript, TypeScript, React, and Node.js. I'm currently studying frontend development, where I’ve worked on several small projects and gained some experience with backend integration and API development.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, TypeScript, HTML, CSS  
+**Frameworks and Libraries:** React, Node.js, Vue, Express  
+**Tools and Platforms:** Git, Postman, Vercel, Figma, MongoDB, MySQL  
+**Other Skills:** REST APIs, agile methodologies and working with design systems
+
+### Projects
+
+(More projects will be made public soon)
+
+### Links
+
+- Portfolio: [emelie-boss.vercel.app](https://emelie-boss.vercel.app)  
+- LinkedIn: [linkedin.com/in/your-link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/emelie-boss-31b36930b/))  
