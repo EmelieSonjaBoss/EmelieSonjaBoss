@@ -1,6 +1,6 @@
 # Emelie Boss
 
-I'm a frontend developer focused on building responsive web applications using JavaScript, TypeScript, React, and Node.js. I'm currently studying frontend development, where I’ve worked on several small projects and gained some experience with backend integration and API development.
+I'm a frontend developer focused on building responsive web applications using JavaScript, TypeScript, React, and Node.js. I'm currently studying frontend development where I’ve worked on several small projects and also gained some experience with backend integration and API development.
 
 ### Tech Stack
 
